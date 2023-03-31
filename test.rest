@@ -1,0 +1,8 @@
+### GET METADATA
+POST http://localhost:8080
+Content-Type: application/json
+
+{
+    "text": "this is a post about https://nhentai.net/g/443937/"
+}
+
